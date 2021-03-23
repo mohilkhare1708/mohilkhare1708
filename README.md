@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohil Khare</h1>
 <h3 align="center">Competitive programmer | Budding Developer | Bookworm | Team Tabs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohilkhare1708&label=Profile%20views&color=0e75b6&style=flat" alt="mohilkhare1708" /> </p>
-
 - 🔭 I’m currently working on [Descriptive Answer Checker](https://github.com/mohilkhare1708/descriptiveAnswerChecker)
 
 - 🌱 I’m currently learning **Django, Flutter, Graph Algorithms**
