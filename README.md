@@ -8,3 +8,5 @@
 - 📫 How to reach me: mohilkhare17@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My name is not Mohit
+
+[![Mohil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohilkhare1708&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
