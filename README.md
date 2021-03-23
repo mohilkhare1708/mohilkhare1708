@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/mohil-khare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohil-khare" height="30" width="40" /></a>
 <a href="https://instagram.com/mohil.khare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mohil.khare" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mohilllll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohilllll" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohilkhare1708" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mohilkhare1708" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mohilkhare17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mohilkhare17" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mohilllll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mohilllll" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohilkhare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mohilkhare" height="30" width="40" /></a>
 </p>
