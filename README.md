@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohil Khare</h1>
 <h3 align="center">Competitive programmer | Budding Developer | Bookworm | Team Tabs</h3>
 
-- 🔭 I’m currently working on [Descriptive Answer Checker](https://github.com/mohilkhare1708/descriptiveAnswerChecker)
+- 🔭 I’m currently working on [Covidaid](https://github.com/mohilkhare1708/covidaid)
 
 - 🌱 I’m currently learning **Django, Flutter, Graph Algorithms**
 
