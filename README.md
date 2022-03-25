@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohil Khare</h1>
 <h3 align="center">Competitive programmer | Budding Developer | Bookworm | Team Tabs</h3>
 
-- 🔭 I’m currently working on [Covidaid](https://github.com/mohilkhare1708/covidaid)
+- 🔭 I’m currently working on [Postuino](https://github.com/mohilkhare1708/postuino)
 
 - 🌱 I’m currently learning **Django, Flutter, Graph Algorithms**
 
-- 👯 I’m looking to collaborate on [Descriptive Answer Checker](https://github.com/mohilkhare1708/descriptiveAnswerChecker)
+- 👯 I’m looking to collaborate on [Postuino](https://github.com/mohilkhare1708/postuino)
 
 - 📝 I regularly write articles on [wikiHow](wikiHow)
 
